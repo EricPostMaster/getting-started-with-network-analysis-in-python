@@ -1,0 +1,6 @@
+,Bilbo,Frodo,Gandalf,Merry,Treebeard
+Bilbo,0,1,1,0,0
+Frodo,1,0,1,1,0
+Gandalf,1,1,0,1,0
+Merry,0,1,1,0,1
+Treebeard,0,0,0,1,0

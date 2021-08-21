@@ -1,0 +1,17 @@
+{
+ "nodes": [
+  {"id": "Bilbo"},
+  {"id": "Frodo"},
+  {"id": "Gandalf"},
+  {"id": "Merry"},
+  {"id": "Treebeard"}
+ ],
+ "links": [
+  {"weight": 1, "source": "Bilbo", "target": "Frodo"},
+  {"weight": 1, "source": "Bilbo", "target": "Gandalf"},
+  {"weight": 1, "source": "Frodo", "target": "Gandalf"},
+  {"weight": 1, "source": "Frodo", "target": "Merry"},
+  {"weight": 1, "source": "Gandalf", "target": "Merry"},
+  {"weight": 1, "source": "Merry", "target": "Treebeard"}
+ ]
+}
